@@ -1,0 +1,8 @@
+out/
+data/
+data-demo/
+data-shots/
+logs/
+logs-demo/
+logs-shots/
+*.class
